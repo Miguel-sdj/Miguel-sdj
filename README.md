@@ -1,4 +1,4 @@
-### Olá, me chamo Miguel Cabral, estudante de ciência da computação!
+### Olá, me chamo Miguel Cabral e sou estudante de ciência da computação!
 
   
 - 📚 Atualmente aprendendo REACT JS e JAVA
