@@ -1,6 +1,6 @@
 ### Olá, me chamo Miguel Cabral e sou estudante de ciência da computação!
 
-  
+- 💻 Co Creator - Petech.
 - 📚 Atualmente aprendendo REACT JS e JAVA e boas práticas de clean code
 - 📲 Contato: [miguelccarvalho1@gmail.com](mailto:miguelccarvalho1@gmail.com)
 - 📶 Linkedin: [Miguel Cabral](https://www.linkedin.com/in/miguel-cabral-b402b1205/)
