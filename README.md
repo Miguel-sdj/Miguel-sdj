@@ -33,4 +33,5 @@
 ##
 ### Desenvolvedor de:
 [![Youtube_Downloader.py](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-sdj&repo=Youtube_Downloader.py&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Miguel-sdj/Youtube_Downloader.py)
+[![pydubbed](https://github-readme-stats.vercel.app/api/pin/?username=Miguel-sdj&repo=pydubbed&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Miguel-sdj/pydubbed)
 
