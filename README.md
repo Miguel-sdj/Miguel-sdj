@@ -8,7 +8,9 @@
 </div>
 
 <br/>
+
 ### About & Research Focus 🛡
+
 Cybersecurity Researcher at **CISSA / CESAR**, investigating adversarial robustness, LLM guardrails, and automated threat intelligence.
 
 - 🔬 **Research Topics:** LLM Defense & Jailbreak Mitigation, Cyber Threat Intelligence (CTI), Incident Response
